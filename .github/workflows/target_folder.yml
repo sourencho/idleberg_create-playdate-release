@@ -2,6 +2,7 @@
 name: test:target_folder
 
 on:
+  workflow_dispatch
   push
 
 jobs:
